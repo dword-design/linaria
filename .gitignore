@@ -63,7 +63,7 @@ typings/
 .env
 
 # generated files
-lib/
+#lib/
 dist/
 build/
 
